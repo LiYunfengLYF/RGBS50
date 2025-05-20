@@ -19,7 +19,10 @@ The RGB-S Tracker SCANet is available at https://github.com/LiYunfengLYF/SCANet
 Our dataset is available at 
 - [Baiduyun](https://pan.baidu.com/s/1mC192X-NnH4ByMxvVtYtvg?pwd=orrx): orrx
 
+The black sonar image of Sequence: connected_polyhedron5 is available at
+- [Baiduyun](https://pan.baidu.com/s/13R64M5CkDkkpnKOVA3l0wg?pwd=xtwc): xtwc
 
+  
 ## Toolkit
 
 See example.py to eval the trackers.
